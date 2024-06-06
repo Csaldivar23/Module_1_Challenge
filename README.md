@@ -1,2 +1,2 @@
-# Practice1
+# Assignment1
 Git demo
